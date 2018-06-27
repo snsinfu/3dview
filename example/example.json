@@ -1,0 +1,26 @@
+{
+  "ch1": {
+    "model":       "licorice",
+    "radius":      0.1,
+    "color":       "hsv",
+    "color_range": [0.0, 0.00],
+    "modulator":   "satuation"
+  },
+
+  "ch2": {
+    "model":       "licorice",
+    "radius":      0.1,
+    "color":       "hsv",
+    "color_range": [0.5, 0.5],
+    "modulator":   "satuation"
+  },
+
+  "ball": {
+    "model":       "beads",
+    "radius":      1.0,
+    "shininess":   0.50,
+    "color":       "Dark2_r",
+    "color_range": [0, 1],
+    "modulator":   "colormap"
+  }
+}

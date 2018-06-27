@@ -1,0 +1,9 @@
+name: qt4-vispy
+
+dependencies:
+  - python=2
+  - pyqt=4
+  - numpy
+  - matplotlib
+  - vispy
+  - Pillow
